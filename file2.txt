@@ -1,4 +1,11 @@
+
 #A00496326
 public int division (int a, int b) {
 return a / b
+}
+
+#A00497567
+Public int mod(int a, int b) {
+return a%b;
+
 }

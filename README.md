@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GROUP_ASSIGNMENT
 
 # Group Git Collaboration Project
@@ -518,3 +519,27 @@ The completed repository represents the combined contributions of:
 * **Armaan — A00497601**
 
 The final goal is to successfully integrate all assigned features while maintaining a clear Git history and demonstrating effective collaboration and conflict resolution.
+=======
+# GROUP\_ASSIGNMENT
+
+# \## Student 2
+
+# 
+
+# Name: Ahanah Pirmohamed
+
+# A Number: A00497567
+
+# 
+
+# Features Added:
+
+# \- file1.txt - Subtraction (-)
+
+# \- file2.txt - Mod (%)
+
+# \- file3.txt - Average
+
+
+
+>>>>>>> feature/A00497567
