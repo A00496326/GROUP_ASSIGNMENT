@@ -1,0 +1,4 @@
+#A00496326
+public int max (int a, int b) {
+  Int.MAX- Math.max(a,b)
+}
