@@ -2,6 +2,8 @@
 
 # Group Git Collaboration Project
 
+# Team name - (The Code Architects)
+
 ## Project Overview
 
 This repository contains a collaborative group project completed by three students. The purpose of the assignment is to demonstrate our understanding of **Git version control, collaborative development, branching, merging, and merge-conflict resolution**.
