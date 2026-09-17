@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # GROUP_ASSIGNMENT
 
 # Group Git Collaboration Project
