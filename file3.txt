@@ -1,4 +1,5 @@
 
+
 #A00496326
 public int max (int a, int b) {
   Int.MAX- Math.max(a,b)
@@ -6,5 +7,11 @@ public int max (int a, int b) {
 #A00497567
 Public double avg(int a, int b) {
 return (a+b)/2.0;
+
+
+#A00497601 - Armaan
+
+Public double power(int a, int b) {
+    return Math.pow(a, b);
 
 }
