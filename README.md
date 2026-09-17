@@ -25,7 +25,7 @@ Each student contributes different mathematical operations to each file accordin
 | Student     | A Number    | Assigned Student |
 | ----------- | ----------- | ---------------- |
 | **Johnson** | `A00496326` | Student 1        |
-| **Ahanaah** | `A00497567` | Student 2        |
+| **Ahanah** | `A00497567` | Student 2        |
 | **Armaan**  | `A00497601` | Student 3        |
 
 ---
@@ -36,7 +36,7 @@ Each group member is required to add their assigned mathematical feature to **ea
 
 The required contributions are:
 
-| File        | Student 1 — Johnson | Student 2 — Ahanaah | Student 3 — Armaan |
+| File        | Student 1 — Johnson | Student 2 — Ahanah | Student 3 — Armaan |
 | ----------- | ------------------- | ------------------- | ------------------ |
 | `File1.txt` | Addition `+`        | Subtraction `-`     | Multiplication `*` |
 | `File2.txt` | Division `/`        | Mod `%`             | Min — `Math.min()` |
@@ -68,11 +68,11 @@ The purpose of these contributions is to demonstrate the addition, division, and
 
 ---
 
-## Student 2 — Ahanaah
+## Student 2 — Ahanah
 
 **A Number:** `A00497567`
 
-Ahanaah is responsible for implementing the following features:
+Ahanah is responsible for implementing the following features:
 
 ### File1.txt
 
@@ -176,7 +176,7 @@ For example:
 git checkout -b feature/A00496326
 ```
 
-Example for Ahanaah:
+Example for Ahanah:
 
 ```bash
 git checkout -b feature/A00497567
@@ -223,7 +223,7 @@ Example for Johnson:
 git checkout -b feature/A00496326
 ```
 
-Example for Ahanaah:
+Example for Ahanah:
 
 ```bash
 git checkout -b feature/A00497567
@@ -250,7 +250,7 @@ File2.txt → Division (/)
 File3.txt → Math.max()
 ```
 
-Ahanaah modifies:
+Ahanah modifies:
 
 ```text
 File1.txt → Subtraction (-)
@@ -297,7 +297,7 @@ git commit -m "Add Johnson mathematical operations"
 or:
 
 ```bash
-git commit -m "Add Ahanaah mathematical operations"
+git commit -m "Add Ahanah mathematical operations"
 ```
 
 or:
@@ -349,7 +349,7 @@ A conflict may look similar to:
 Addition (+)
 =======
 Subtraction (-)
->>>>>>> ahanaah
+>>>>>>> Ahanah
 ```
 
 The section between:
@@ -375,7 +375,7 @@ The section between:
 and:
 
 ```text
->>>>>>> ahanaah
+>>>>>>> Ahanah
 ```
 
 represents the incoming branch's changes.
@@ -483,7 +483,7 @@ The final repository should therefore represent the combined work of all three s
 | Student | A Number  | File 1             | File 2               | File 3               |
 | ------- | --------- | ------------------ | -------------------- | -------------------- |
 | Johnson | A00496326 | Addition `+`       | Division `/`         | Maximum `Math.max()` |
-| Ahanaah | A00497567 | Subtraction `-`    | Modulus `%`          | Average `Math.avg()` |
+| Ahanah | A00497567 | Subtraction `-`    | Modulus `%`          | Average `Math.avg()` |
 | Armaan  | A00497601 | Multiplication `*` | Minimum `Math.min()` | Power `Math.pow()`   |
 
 ---
@@ -514,7 +514,7 @@ The shared-file structure intentionally creates opportunities for merge conflict
 The completed repository represents the combined contributions of:
 
 * **Johnson — A00496326**
-* **Ahanaah — A00497567**
+* **Ahanah — A00497567**
 * **Armaan — A00497601**
 
 The final goal is to successfully integrate all assigned features while maintaining a clear Git history and demonstrating effective collaboration and conflict resolution.
